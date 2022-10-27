@@ -1,0 +1,11 @@
+﻿global using OnlineStore.Controler.Factories;
+global using OnlineStore.Controler.Handlers.Interfaces;
+global using OnlineStore.Controler.Handlers;
+global using OnlineStore.Data.DAL;
+global using OnlineStore.Data.Entities.Services;
+global using OnlineStore.Data.Entities.Store;
+global using OnlineStore.Data.Entities.Users;
+global using OnlineStore.View.Interfaces;
+global using OnlineStore.View;
+global using System.Text.RegularExpressions;
+global using System.Text;
